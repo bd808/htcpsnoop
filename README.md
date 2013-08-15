@@ -1,4 +1,4 @@
-htcpsnoop
-=========
+HTCPSnoop
+===================
 
-HTCP UDP Packet Sniffer
+Listen for and display HTCP UDP packets.
